@@ -1,2 +1,2 @@
 # Goatbot-test-
-A simple bot Messenger using personnal account.Made by NTKang
+A simple bot Messenger using personnal account.Made by NTKang.
